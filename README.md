@@ -2,9 +2,9 @@
 Downloads and compiles full web novels from Novefull into a local copy for offline and ease of view.
 
 ## Requires
-Python3
+* Python3
 
-Internet access
+* Internet access
 
 ## Usage
 1. Download the git repo, and navigate to the python script.
